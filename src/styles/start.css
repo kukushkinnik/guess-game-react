@@ -1,0 +1,15 @@
+* {
+  marign: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+}
+body .gm {
+  width: 128px;
+  higth: 128px;
+}
+
+/*# sourceMappingURL=start.css.map */
